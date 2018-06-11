@@ -1,0 +1,77 @@
+body {
+    font-family: tahoma, arial, sans-serif;
+}
+div.example {
+    border-bottom: 1px solid black;
+    margin: 10px 0px;
+}
+div.example div {
+    margin: 5px 0px;
+}
+span {
+    padding: 0px 5px;
+    display: inline-block;
+}
+span.a0 {
+    background: #00CCFF; /*#33CC00;*/
+}
+span.a1 {
+    background: #1AD1FF;
+}
+span.a2 {
+    background: #33D6FF;
+}
+span.a3 {
+    background: #4DDBFF;
+}
+span.a4 {
+    background: #66E0FF;
+}
+span.a5 {
+    background: #80E6FF;
+}
+span.a6 {
+    background: #99EBFF;
+}
+span.a7 {
+    background: #B3F0FF;
+}
+span.a8 {
+    background: #CCF5FF;
+}
+span.a9 {
+    background: #E6FAFF;
+}
+span.a10 {
+    background: #FFFFFF;
+}
+span.a11 {
+    background: #FFEBE6;
+}
+span.a12 {
+    background: #FFD6CC;
+}
+span.a13 {
+    background: #FFC2B3;
+}
+span.a14 {
+    background: #FFAD99;
+}
+span.a15 {
+    background: #FF9980;
+}
+span.a16 {
+    background: #FF8566;
+}
+span.a17 {
+    background: #FF704D;
+}
+span.a18 {
+    background: #FF5C33;
+}
+span.a19 {
+    background: #FF471A;
+}
+span.a20 {
+    background: #FF3300;
+}
